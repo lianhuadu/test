@@ -1,14 +1,4 @@
-    <style type="text/css">
-	body  {margin:0px; background-color:#80c0ff; font-size:14px; font-family:宋体;}
-	table {border:0px; border-collapse:collapse; line-height:0px; margin:auto; word-break:break-all; word-wrap:break-word;}
-	tr    {border:0px; vertical-align:top; text-align:center;}
-	td    {border:0px; padding:5px;}
-	p     {line-height:0px; margin:0px 0px;}
-	img   {border:0px; }
-        .noteback {position:relative;bottom:20px;left:0px;height:20px;width:100%;background:#000000;opacity:0.20;}
-        .notetext {position:relative;bottom:30px;left:0px;height:20px;width:100%;color:#ffffff;font-size:12px;}
-    </style>
-<table>
+<table style="border:0px; border-collapse:collapse; line-height:0px; margin:auto; word-break:break-all; word-wrap:break-word;">
   <tr>
     <td><a href="https://d3tbp1m3wpbm1g.cloudfront.net/ogUP.aspx?name=ZYZG.mp4" target="_blank"><img src="https://d3tbp1m3wpbm1g.cloudfront.net/Up/ZYZG.jpg" /></a></td>
     <td rowspan=2><a href="https://d3tbp1m3wpbm1g.cloudfront.net/ogUP.aspx?name=WJ.mp4" target="_blank"><img src="https://d3tbp1m3wpbm1g.cloudfront.net/Up/WJ0.jpg" /></a></td>
